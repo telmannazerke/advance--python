@@ -4,11 +4,11 @@ import math
 def hypotenuse(a, b):
     return math.sqrt(a*a + b*b)
 
-a1 = float(input("Enter first leg of triangle 1: "))
-b1 = float(input("Enter second leg of triangle 1: "))
+a1 = float(input("Enter first : "))
+b1 = float(input("Enter second : "))
 
-a2 = float(input("Enter first leg of triangle 2: "))
-b2 = float(input("Enter second leg of triangle 2: "))
+a2 = float(input("Enter first leg: "))
+b2 = float(input("Enter second leg: "))
 
 h1 = hypotenuse(a1, b1)
 h2 = hypotenuse(a2, b2)
