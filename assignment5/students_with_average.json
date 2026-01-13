@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Aida",
+        "age": 18,
+        "grades": [
+            88,
+            91,
+            84
+        ],
+        "average_grade": 87.66666666666667
+    },
+    {
+        "name": "Daniyar",
+        "age": 20,
+        "grades": [
+            72,
+            79,
+            75,
+            80
+        ],
+        "average_grade": 76.5
+    },
+    {
+        "name": "Madina",
+        "age": 19,
+        "grades": [
+            95,
+            93,
+            97
+        ],
+        "average_grade": 95.0
+    }
+]

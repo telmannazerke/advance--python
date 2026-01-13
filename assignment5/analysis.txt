@@ -1,0 +1,17 @@
+Total lines: 3
+Total words: 18
+
+Word frequencies:
+python: 3
+is: 3
+a: 1
+powerful: 1
+programming: 2
+language: 1
+easy: 1
+to: 1
+learn: 1
+and: 1
+use: 1
+with: 1
+fun: 1
