@@ -7,7 +7,7 @@
             91,
             84
         ],
-        "average_grade": 87.66666666666667
+        "average_grade": 87
     },
     {
         "name": "Daniyar",
@@ -18,7 +18,7 @@
             75,
             80
         ],
-        "average_grade": 76.5
+        "average_grade": 76
     },
     {
         "name": "Madina",
@@ -28,6 +28,6 @@
             93,
             97
         ],
-        "average_grade": 95.0
+        "average_grade": 95
     }
 ]

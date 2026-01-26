@@ -28,7 +28,7 @@ account = BankAccount("Arsen", 2000)
 account.deposit(400)
 account.deposit(-50)     
 
-account.withdraw(300)
+account.withdraw(1000)
 account.withdraw(2000)    
 
 print("Final balance:", account.get_balance())
